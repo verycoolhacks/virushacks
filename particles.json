@@ -4,10 +4,10 @@
       "value": 100
     },
       "color": {
-          "value":["#8FBC8F", "#00FF7F", "#228B22"]
+          "value": "#ffffff"
       }, 
       "size": {
-          "value":3
+          "value":0
       },
       "opacity": {
           "value": 0.7
